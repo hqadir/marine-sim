@@ -4,6 +4,8 @@ This is a project I did for in final year during my Computer Science BSc origina
 
 For a very detailed overview of the project, which involves research and testing, please see the project documentation attached as a pdf. Please note it is formatted for dissertation style submission.
 
+A lot more work can be done to tighten up the simulation, add depth and certainly improve the visuals and the experience. The tighteness of my deadline explains why it can be unfinished in places. Nonetheless, it was a really fun project to do.
+
 ## Overview
 
 This was an attempt to model the system dynamics between an evolving plankton population and a marine ecosystem. 
