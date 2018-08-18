@@ -1,6 +1,6 @@
 # marine-sim
 
-This is a project I did for in final year during my Computer Science BSc originally titled (probably a bit pretentiously) 'An interactive educational simulation of a marine ecosystem consisting of planktonic organisms and their evolution over time'. The software itself is written in Java and uses the Processing library for visualisation.
+This is a project I did in final year during my Computer Science BSc originally titled (probably a bit pretentiously) 'An interactive educational simulation of a marine ecosystem consisting of planktonic organisms and their evolution over time'. The software itself is written in Java and uses the Processing library for visualisation.
 
 For a very detailed overview of the project, which involves research and testing, please see the project documentation attached as a pdf. Please note it is formatted for dissertation style submission.
 
